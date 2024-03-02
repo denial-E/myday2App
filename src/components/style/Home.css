@@ -1,0 +1,58 @@
+body{
+    background-color: blue;
+    margin-top: auto;
+    
+}
+.container{
+    display: flex;
+    margin: 50px auto;
+    margin-left: 15%;
+    
+    width: 600px;
+    height: 800px;
+}
+.wrapper{
+    width: 330px;
+    height: 54%;
+    padding-right: 30px;
+    padding-right: 10px;
+    margin: 10px;
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid transparent;
+    box-shadow: 0 20px 35px rgba(0,0,0,0.1);
+}
+h6{
+    font-size: 1rem;
+    color: rgba(160,160,160);;
+    margin-top: 10px;
+
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+    margin: 10px 20px;
+}
+ul li{
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+i{
+    margin-right: 12px;
+}
+.fa-check{
+    
+}
+.not-avail{
+    color: rgba(160,160,160);
+}
+.wrapper:hover{
+    border:1px solid;
+}
+.btn{
+    background:cornflowerblue;
+    width: 90%;
+    border-radius: 30px;
+}
